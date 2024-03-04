@@ -1,2 +1,0 @@
-SELECT ( It is used to print/'select' what i want to print/select )
-FROM ( It specifies from which table to take input from )
