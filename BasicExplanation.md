@@ -13,3 +13,4 @@ WHERE clause is used to filter records
   
 SELECT DISTINCT statement is used to return only distinct (different) values
  Syntax:- 
+ EXAMPLE:- SELECT COUNT(city) - COUNT(DISTINCT CITY) FROM STATION;
